@@ -1,0 +1,17 @@
+{
+  "name": "Design Mode Trigger",
+  "description": "Use this extension to enable design mode on your browser, quick and easy!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["storage", "activeTab", "declarativeContent"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "action": {}
+}
