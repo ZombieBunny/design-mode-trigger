@@ -20,7 +20,9 @@ Once installed, you will need to pin the extension to your browser, once pinned,
 
 1. ~~Update trigger icon/state awareness~~
 
-2. Package extension for chrome store
+2. Design icon and chrome store meta
+
+3. Package extension for chrome store
 
 ### Resources
 
