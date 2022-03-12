@@ -18,7 +18,7 @@ Once installed, you will need to pin the extension to your browser, once pinned,
 
 ### TODO
 
-1. Update trigger icon/state awareness
+1. ~~Update trigger icon/state awareness~~
 
 2. Package extension for chrome store
 
